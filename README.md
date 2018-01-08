@@ -1,10 +1,13 @@
 # my-awesome
 My awesome list for software development &amp; data analysis
 
-* [Math Problems] (https://github.com/wanly3643/my-awesome/blob/master/math.md)
+## Topics
+*Current topics I am interestested*
 
-* [Software Development Resources] (https://github.com/wanly3643/my-awesome/blob/master/software.md)
+* [Math Problems](https://github.com/wanly3643/my-awesome/blob/master/math.md)
 
-* [Data Scientist] (https://github.com/wanly3643/my-awesome/blob/master/data.md)
+* [Software Development Resources](https://github.com/wanly3643/my-awesome/blob/master/software.md)
 
-* [Data Engineer] (https://github.com/wanly3643/my-awesome/blob/master/engineer.md)
+* [Data Scientist](https://github.com/wanly3643/my-awesome/blob/master/data.md)
+
+* [Data Engineer](https://github.com/wanly3643/my-awesome/blob/master/engineer.md)
