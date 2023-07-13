@@ -10,3 +10,5 @@
 * [人工智能](https://github.com/wanly3643/my-awesome/blob/master/ai.md)
 
 * [英语学习](https://github.com/wanly3643/my-awesome/blob/master/english.md)
+
+* [各类工具](https://github.com/wanly3643/my-awesome/blob/master/tools.md)
